@@ -1,1 +1,11 @@
-# backtesis
+asgiref==3.2.3
+cffi==1.14.0
+cryptography==2.8
+Django==3.0.3
+django-rest-knox==4.1.0
+djangorestframework==3.11.0
+pycparser==2.19
+pytz==2019.3
+six==1.14.0
+sqlparse==0.3.0
+whitenoise==5.0.1
